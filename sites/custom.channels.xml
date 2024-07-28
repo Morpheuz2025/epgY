@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<channels>
+  <channel site="arirang.com" lang="en" xmltv_id="ArirangTV.kr" site_id="CH_K">Arirang TV</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="uni-deportes-hd/11146">TUDN HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="uni-deportes/11145">TUDN</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="fox-deportes/1827">Fox Deportes</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="ESPN.us" site_id="espn/594">ESPN</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="bein-sport-canada/13246">beIN Sport Canada</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="bein-sport-en-espanol-hd/10856">beIN Sport en Espanol HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="bein-sport-en-espanol/10855">beIN Sport en Espanol</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="bein-sport-usa-hd/10854">beIN Sport USA HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="bein-sport-usa/10853">beIN Sport USA</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="univision--eastern-feed-hd/8136">Univision - Eastern Feed HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="univision--eastern-feed/1305">Univision - Eastern Feed</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="univision--mountain-feed-hd/9497">Univision - Mountain Feed HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="univision--mountain-feed/9496">Univision - Mountain Feed</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="univision--pacific-feed-hd/8137">Univision - Pacific Feed HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="univision--pacific-feed/1306">Univision - Pacific Feed</channel>
+  </channels>

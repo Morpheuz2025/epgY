@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <channels>
-  <channel site="arirang.com" lang="en" xmltv_id="ArirangTV.kr" site_id="CH_K">Arirang TV</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="uni-deportes-hd/11146">TUDN HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="uni-deportes/11145">TUDN</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="fox-deportes-hd/10502">Fox Deportes HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="fox-deportes/1827">Fox Deportes</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="ESPN.us" site_id="espn/594">ESPN</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="bein-sport-canada/13246">beIN Sport Canada</channel>

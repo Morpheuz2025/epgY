@@ -16,6 +16,8 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="univision--mountain-feed/9496">Univision - Mountain Feed</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="univision--pacific-feed-hd/8137">Univision - Pacific Feed HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="univision--pacific-feed/1306">Univision - Pacific Feed</channel>
+   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="espn-deportes/2108">ESPN Deportes</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="ESPN.us" site_id="espn-hd/3036">ESPN HD</channel>
   </channels>
   
   

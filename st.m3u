@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/perupremium.xml.gz" x-tvg-url="https://www.bevy.be/bevyfiles/perupremium.xml.gz"
+
 #EXTINF:0 channelID="x-ID.4" tvg-chno="6" tvg-name="Exitosa TV" tvg-id="EXITOSA TV.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Logoexitosa.png" group-title="Bitel",Exitosa TV
 https://live-evg4.tv360.bitel.com.pe/bitel/exitosa/playlist.m3u8?uid=1162565
-
 #EXTINF:0 channelID="x-ID.0" tvg-chno="2" tvg-name="Latina" tvg-id="LATINA.pe" tvg-logo="https://cablego.com.pe/cache/logos256/LATINA.png" group-title="Bitel",Latina
 https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
 #EXTINF:0 channelID="x-ID.1" tvg-chno="3" tvg-name="Willax TV" tvg-id="WILLAX.pe" tvg-logo="http://tv.jomysonplus.com/logo/Willax-TV.png" group-title="Bitel",Willax TV

@@ -14,7 +14,7 @@ https://live-evg4.tv360.bitel.com.pe/bitel/panamericana/playlist.m3u8?uid=116256
 https://live-evg4.tv360.bitel.com.pe/bitel/exitosa/playlist.m3u8?uid=1162565
 #EXTINF:0 channelID="x-ID.6" tvg-chno="7" tvg-name="TV Peru HD" tvg-id="TV Peru HD.pe" tvg-logo="https://i.imgur.com/6io0IrX.png" group-title="Bitel",TVBitel
 https://live-evg4.tv360.bitel.com.pe/bitel/tvBitel/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
-#EXTINF:0 channelID="x-ID.10" tvg-chno="8" tvg-name="Global TV" tvg-id="GLOBAL.pe" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Global_2019.png" group-title="Bitel",Global TV
+#EXTINF:0 channelID="x-ID.10" tvg-chno="8" tvg-name="Global TV" tvg-id="GLOBAL.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Global_logo_2019.png/246px-Global_logo_2019.png" group-title="Bitel",Global TV
 https://live-evg25.tv360.bitel.com.pe/bitel/global/playlist.m3u8?uid=1162565
-#EXTINF:0 channelID="x-ID.7" tvg-chno="9" tvg-name="ATV" tvg-id="ATV.pe" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/ATV_2018.png" group-title="Bitel",ATV
+#EXTINF:0 channelID="x-ID.7" tvg-chno="9" tvg-name="ATV" tvg-id="ATV.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/ATV_logo_2020.png/640px-ATV_logo_2020.png" group-title="Bitel",ATV
 https://live-evg25.tv360.bitel.com.pe/bitel/atv/playlist.m3u8?uid=1162565

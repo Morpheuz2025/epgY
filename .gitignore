@@ -1,6 +1,9 @@
 /node_modules/
 /temp/
 /channels.xml
+/arg.xml
+/co.xml
+/guide.xml
 
 
 # macOS

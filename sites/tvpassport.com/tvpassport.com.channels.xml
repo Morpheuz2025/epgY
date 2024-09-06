@@ -18,9 +18,12 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="univision--pacific-feed/1306">Univision - Pacific Feed</channel>
    <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="espn-deportes/2108">ESPN Deportes</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="ESPN.us" site_id="espn-hd/3036">ESPN HD</channel>
+<<<<<<< HEAD
+=======
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="telemundo--eastern-feed/1521">Telemundo - Eastern Feed</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="telemundo--mountain-feed/1875">Telemundo - Mountain Feed</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="telemundo--pacific-feed/2013">Telemundo - Pacific Feed</channel>
+>>>>>>> 2d523d45208bb6e8ad40363754c651c024e06a21
   </channels>
   
   
